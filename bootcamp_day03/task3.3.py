@@ -1,0 +1,6 @@
+print("Enter the first number :")
+x=input()
+print("Enter the second number :")
+y=input()
+z=int(x)+int(y)
+print(z)
